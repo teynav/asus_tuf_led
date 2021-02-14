@@ -1,5 +1,7 @@
 # Asus TUF keyboard color changing utility on LINUX
 Tested on FX505DT Keyboard LED
+For supported laptops look at [here](https://github.com/hackbnw/faustus#systems)
+
 
 # *EXPERIMENTAL*
 
@@ -9,7 +11,7 @@ Install these beforehand.
 2. dkms
 3. zenity
 
-Now run these command to get (Faustus driver)[https://github.com/hackbnw/faustus]
+Now run these command to get [Faustus driver](https://github.com/hackbnw/faustus)
 ```
 git clone https://github.com/hackbnw/faustus.git
 cd faustus
