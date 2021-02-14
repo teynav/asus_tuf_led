@@ -1,1 +1,2 @@
-# asus_tuf_led
+# Asus TUF keyboard color changing utility
+Tested on FX505DT 
